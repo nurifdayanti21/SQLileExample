@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Data Mahasiswa</string>
+    <string name="tambah_mahasiswa">Tambah Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="masukkan_nim">Masukan NIM</string>
+    <string name="nama">Nama</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="umur">Umur</string>
+    <string name="masukkan_umur">Masukkan Umur</string>
+    <string name="simpan">Simpan</string>
+    <string name="update_mahasiswa">Update Mahasiswa</string>
+    <string name="cari_mahasiswa">Cari Mahasiswa</string>
+    <string name="update">Update</string>
+    <string name="hapus">Hapus</string>
+    <string name="tambah">Tambah</string>
+    <string name="informasi_hasil_pencarian">Informasi Hasil Pencarian</string>
+</resources>
